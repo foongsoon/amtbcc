@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="UTF-8">
+  <title>佛说阿弥陀经</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/full.js"></script>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #e0e0e0;
+      --highlight: #ffd54f;
+      --box-bg: rgba(255, 255, 255, 0.05);
+    }
+
     body.light {
       --bg-color: #f9f9f9;
       --text-color: #333;
